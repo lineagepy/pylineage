@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/lineagepy專案/lineagepy_3.80c/lib/ant.jar"/>
+	<classpathentry kind="lib" path="D:/lineagepy專案/lineagepy_3.80c/lib/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/lineagepy專案/lineagepy_3.80c/lib/javolution-5.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/lineagepy專案/lineagepy_3.80c/lib/mina-core-2.0.16.jar"/>
+	<classpathentry kind="lib" path="D:/lineagepy專案/lineagepy_3.80c/lib/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="D:/lineagepy專案/lineagepy_3.80c/lib/netty-all-4.1.6.Final.jar"/>
+	<classpathentry kind="lib" path="D:/lineagepy專案/lineagepy_3.80c/lib/protobuf-java-3.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="D:/lineagepy專案/lineagepy_3.80c/lib/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
